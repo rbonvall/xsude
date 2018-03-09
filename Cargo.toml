@@ -1,0 +1,6 @@
+[package]
+name = "xsude"
+version = "0.1.0"
+authors = ["Roberto Bonvallet <roberto@mez.cl>"]
+
+[dependencies]
